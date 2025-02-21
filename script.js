@@ -1,6 +1,6 @@
 // script.js
 // OpenWeatherMap API Key
-const apiKey = '3d897dc5871927393ea595d48911f103';
+const apiKey = 'Enter your API Key Here';
 
 // Function to fetch weather data from OpenWeatherMap API
 function fetchWeather() {
